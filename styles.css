@@ -1,0 +1,126 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background: url(images/castle-cash-seal-bg_50.png) top left no-repeat;	
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #012345;
+	margin: 20px;
+}
+
+fieldset
+{
+	margin: 0 auto;
+	padding: 0 30px;
+	width: 700px;	
+	border: 1px solid #666;
+	border-radius: 5px;
+	box-shadow: 10px 10px 5px #999;
+	background: #FFF;
+}
+
+table
+{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+th
+{
+	text-align: center;	
+	text-decoration: underline;
+}
+
+h1
+{
+	text-align: left;
+	font-size: 20px;
+	padding-left: 10px;	
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-transform:uppercase;
+	background: #012345;
+	color: #FFF;
+}
+
+h2
+{
+	font-size: 15px;
+	padding-top: 15px;	
+}
+
+caption
+{
+	text-align: left;	
+	margin-bottom: 10px;
+}
+
+section
+{
+	padding-bottom: 20px;	
+}
+
+input[type=submit]
+{
+	margin-top: 10px;	
+}
+
+select
+{
+	margin-top: 15px;	
+}
+
+.course
+{
+	width: 45%;
+}
+
+.credits
+{
+	width: 10%;	
+	text-align: right;
+}
+
+.credit-total
+{
+	margin-top: 10px;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: bold;	
+}
+
+.text
+{
+	width: 97%;
+	border: none;
+	border-bottom: 1px solid #000;
+	background: none;
+		
+}
+
+.center
+{
+	text-align: center;	
+}
+
+.border-bottom
+{
+	border-bottom: 1px dotted #000;	
+}
+
+.align-right
+{
+	text-align: right;	
+}
+
+.title
+{
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 40px;
+	font-size: 25px;
+	background: none;
+	color: #012345;
+}
